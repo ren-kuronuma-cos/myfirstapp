@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kuronumaapp-dev-150554-authRole",
+      "UnauthRoleArn": "arn:aws:iam::028425972705:role/amplify-kuronumaapp-dev-150554-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::028425972705:role/amplify-kuronumaapp-dev-150554-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-kuronumaapp-dev-150554-deployment",
+      "UnauthRoleName": "amplify-kuronumaapp-dev-150554-unauthRole",
+      "StackName": "amplify-kuronumaapp-dev-150554",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:028425972705:stack/amplify-kuronumaapp-dev-150554/5899aa30-0e67-11ee-bb8a-0e4cf08158f5",
+      "AmplifyAppId": "d23xo39kv1b2cv"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d23xo39kv1b2cv",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
